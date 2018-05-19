@@ -12,5 +12,10 @@ Guía de referencia de Kara Effector
 
     introduction/overview
     introduction/changelog
-    introduction/aegisub
+    
+.. toctree::
+    :maxdepth: 1
+    :caption: Relacionado con Kara Effector
+	introduction/aegisub
+	introduction/automation4
     introduction/lua
