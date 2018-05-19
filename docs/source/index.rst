@@ -6,9 +6,6 @@
 Guía de referencia de Kara Effector
 ======================================================
 
-Índice de contenidos
---------------------
-
 .. toctree::
     :maxdepth: 1
     :caption: Introducción

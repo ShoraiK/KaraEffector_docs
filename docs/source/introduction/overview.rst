@@ -1,12 +1,7 @@
 .. highlight:: lua
 
-Información general
+Changelog
 ###########################################
-.. image:: https://scontent-mad1-1.xx.fbcdn.net/v/t31.0-8/1501096_717064375020997_4999768147162873166_o.jpg?_nc_cat=0&oh=61624c3422fdd948887eca051adcd156&oe=5B79AF75
-   :height: 1080px
-   :width: 1920px
-   :scale: 50%
-   :align: center
 
 ¿Qué es Kara Effector?
 ======================
