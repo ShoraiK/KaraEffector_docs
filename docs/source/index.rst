@@ -9,7 +9,6 @@ Guía de referencia de Kara Effector
 .. toctree::
     :maxdepth: 1
     :caption: Introducción
-
     introduction/overview
     introduction/changelog
     
