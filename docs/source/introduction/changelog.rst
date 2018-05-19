@@ -1,5 +1,8 @@
 .. highlight:: lua
 
+Changelog
+###########################################
+
 | v3.4 Math kurisu
 | april 28th 2018
 

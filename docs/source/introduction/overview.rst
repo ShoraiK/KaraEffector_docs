@@ -1,6 +1,6 @@
 .. highlight:: lua
 
-Changelog
+¿Qué es Kara Effector?
 ###########################################
 
 ¿Qué es Kara Effector?
