@@ -1,4 +1,4 @@
-# Bienvenid@ a la guía de referencia de funciones del Kara Effector 
+# Bienvenid@ a la guía de referencia del Kara Effector 
 
 > **¡Jamás fue tan sencillo hacer efectos de karaoke!**
 
@@ -26,7 +26,7 @@ o de su Librería, a menos que estén completamente seguros de lo que están hac
 manera correcta. Sin más, nos despedimos, esperando que este trabajo sea del agrado de todos ustedes.
 
 ## Documentación de Kara Effector
-Encontrará la documentación completa de este proyecto [aquí](http://karaeffector-docs.readthedocs.io/en/latest/).
+Encontrará la documentación completa de este proyecto [aquí](http://karaeffector-docs.readthedocs.io/es/latest/).
 
 ## Siéntete libre de contribuir
 Este es un proyecto de código abierto, así que cuanta más gente se anime a documentar las funciones del Kara Effector,
