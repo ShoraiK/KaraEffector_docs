@@ -1,6 +1,6 @@
 # Bienvenid@ a la guía de referencia de funciones del Kara Effector 
 
-> ¡Jamás fue tan sencillo hacer efectos de karaoke!
+> **¡Jamás fue tan sencillo hacer efectos de karaoke!**
 
 
 ![Build Status](https://img.shields.io/travis/rtfd/readthedocs.org.svg?style=flat) ![docs](https://readthedocs.org/projects/docs/badge/?version=latest) ![codecov.io Code Coverage](https://img.shields.io/sonar/http/sonar.petalslink.com/org.ow2.petals%3Apetals-se-ase/coverage.svg)
