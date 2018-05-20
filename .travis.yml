@@ -1,0 +1,16 @@
+language: python
+python:
+  - 2.7
+  - 3.6
+sudo: false
+matrix:
+  include:
+    - python: 2.7
+      env: TOXENV=docs
+    - python: 2.7
+      env: TOXENV=lint
+    - python: 2.7
+      env: TOXENV=eslint
+branches:
+  only:
+  - master
