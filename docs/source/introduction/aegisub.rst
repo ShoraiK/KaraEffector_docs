@@ -1,10 +1,10 @@
 .. highlight:: lua
 
 Sobre Aegisub
-###########################################
+#############
 
 ¿Qué es el Aegisub?
-======================
+===================
 
 **Aegisub** es un **editor** de subtítulos SubStation Alpha (**.ssa**, **.ass**) de propósito general que ayuda en muchos aspectos a la composición tipográfica (typesetting). 
 

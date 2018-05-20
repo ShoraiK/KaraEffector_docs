@@ -1,7 +1,7 @@
 .. highlight:: lua
 
 Lenguaje de programación LUA
-###########################################
+############################
 
 | **Lua** es un lenguaje de programación imperativo, estructurado y bastante ligero que fue diseñado como un lenguaje interpretado con una semántica extendible. El nombre significa «luna» en portugués.
 

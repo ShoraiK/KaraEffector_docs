@@ -1,8 +1,5 @@
 .. highlight:: lua
 
-¿Qué es Kara Effector?
-###########################################
-
 Sobre la utilidad Kara Effector
 ===============================
 
