@@ -1,4 +1,4 @@
-# Bienvenid@ a la guía de referencia del Kara Effector 
+# Bienvenid@ a la guía de referencia de Kara Effector 
 
 > **¡Jamás fue tan sencillo hacer efectos de karaoke!**
 
