@@ -20,3 +20,26 @@ Guía de referencia de Kara Effector
 	introduction/aegisub
 	introduction/automation4
 	introduction/lua
+	
+.. toctree::
+	:maxdepth: 1
+	:caption: Librerías
+	
+	libraries/introduction
+	libraries/shared_functions
+	libraries/other_resources
+	libraries/var
+	libraries/l
+	libraries/fx
+	libraries/math_lua
+	libraries/math_ke
+	libraries/table
+	libraries/string
+	libraries/random
+	libraries/time
+	libraries/tag
+	libraries/color_alpha
+	libraries/shape
+	libraries/effector
+	
+	
